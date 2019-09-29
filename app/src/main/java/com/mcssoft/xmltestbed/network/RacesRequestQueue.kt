@@ -29,3 +29,11 @@ class RacesRequestQueue constructor(context: Context) {
         requestQueue.add(req)
     }
 }
+/*
+    XmlPullParser xpp = context.getResources().getXml(R.raw.zoo_table);
+    XPath xpath = XPathFactory.newInstance().newXPath();
+    try {
+        String askFor2 = "//creature[@ID='2']";
+        NodeList creaturesNodes = (NodeList) xpath.evaluate(askFor2, xpp, XPathConstants.NODESET);
+
+ */

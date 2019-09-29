@@ -6,10 +6,14 @@ import com.mcssoft.xmltestbed.xmlPojo.RaceDay
 import com.mcssoft.xmltestbed.xmlPojo.Meeting
 import com.mcssoft.xmltestbed.xmlPojo.Race
 import com.mcssoft.xmltestbed.xmlPojo.Runner
+import org.w3c.dom.NodeList
 import org.xmlpull.v1.XmlPullParser
 import org.xmlpull.v1.XmlPullParserException
 import java.io.IOException
 import java.io.InputStream
+import java.io.StringReader
+import javax.xml.xpath.XPathConstants
+import javax.xml.xpath.XPathFactory
 
 // https://developer.android.com/training/basics/network-ops/xml
 class RaceMeetingParser {
@@ -20,7 +24,8 @@ class RaceMeetingParser {
             val parser: XmlPullParser = Xml.newPullParser()
             parser.setFeature(XmlPullParser.FEATURE_PROCESS_NAMESPACES, false)
             parser.setInput(inStream, null)
-            readFeed(parser)
+//            readFeed(parser)
+            readFeed2(inStream)
         }
     }
 //    fun parse(inputStream: InputStream): List<*> {
@@ -127,6 +132,14 @@ class RaceMeetingParser {
         runner.rtng = parser.getAttributeValue(nameSpace, "Rtng")
 
         return runner
+    }
+
+    private fun readFeed2(inputStream: InputStream) {
+        val xPath = XPathFactory.newInstance().newXPath()
+        val askFor = "/<RaceDay"
+        val lNodes = xPath.evaluate(askFor, inputStream, XPathConstants.NODESET) as NodeList
+
+        val bp = "bp"
     }
 
     // We don't use namespaces

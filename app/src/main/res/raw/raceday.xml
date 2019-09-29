@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RaceDay RaceDayDate="2019-09-30T00:00:00" Year="2019" Month="9" Day="30" DayOfTheWeek="Monday" MonthLong="September" IsCurrentDay="1" IsPresaleMeeting="0" ServerTime="2019-09-30T07:28:52.803">
+    <Meeting MeetingCode="NR" MtgId="2019820544" VenueName="Tamworth" MtgType="R" TrackRatingChanged="N" WeatherChanged="N" TrackChanged="N" MtgAbandoned="N">
+        <Pool PoolType="DD" PoolDisplayStatus="SELLING" Available="Y" Abandoned="N" JPotInGross="0.00" JPotOutGross="0.00" PoolTotal="0.00" MinPoolSize="0.0000" MinPoolTopUp="0.0000">
+            <MultiLeg LegNo="1" RaceNo="6">
+                <DividendResult/>
+            </MultiLeg>
+            <MultiLeg LegNo="2" RaceNo="7">
+                <DividendResult/>
+            </MultiLeg>
+        </Pool>
+        <Pool PoolType="XD" PoolDisplayStatus="SELLING" Available="Y" Abandoned="N" JPotInGross="0.00" JPotOutGross="0.00" PoolTotal="0.00" MinPoolSize="0.0000" MinPoolTopUp="0.0000">
+            <MultiLeg LegNo="1" RaceNo="2">
+                <DividendResult/>
+            </MultiLeg>
+            <MultiLeg LegNo="2" RaceNo="3">
+                <DividendResult/>
+            </MultiLeg>
+        </Pool>
+        <Pool PoolType="TT" PoolDisplayStatus="SELLING" Available="Y" Abandoned="N" JPotInGross="0.00" JPotOutGross="0.00" PoolTotal="0.00" MinPoolSize="0.0000" MinPoolTopUp="0.0000">
+            <MultiLeg LegNo="1" RaceNo="5">
+                <DividendResult/>
+            </MultiLeg>
+            <MultiLeg LegNo="2" RaceNo="6">
+                <DividendResult/>
+            </MultiLeg>
+            <MultiLeg LegNo="3" RaceNo="7">
+                <DividendResult/>
+            </MultiLeg>
+        </Pool>
+        <Pool PoolType="QD" PoolDisplayStatus="SELLING" Available="Y" Abandoned="N" JPotInGross="0.00" JPotOutGross="0.00" PoolTotal="0.00" MinPoolSize="0.0000" MinPoolTopUp="0.0000">
+            <MultiLeg LegNo="1" RaceNo="4">
+                <DividendResult/>
+            </MultiLeg>
+            <MultiLeg LegNo="2" RaceNo="5">
+                <DividendResult/>
+            </MultiLeg>
+            <MultiLeg LegNo="3" RaceNo="6">
+                <DividendResult/>
+            </MultiLeg>
+            <MultiLeg LegNo="4" RaceNo="7">
+                <DividendResult/>
+            </MultiLeg>
+        </Pool>
+        <Race RaceNo="1" RaceTime="2019-09-30T13:35:00" RaceName="CONCRETE INDUSTRY SUPPLIES" Distance="1000" RaceDisplayStatus="SELLING" WeatherChanged="N" WeatherCond="0" TrackChanged="N" TrackCond="0">
+            <Pool PoolType="WW" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:22" CalcTime="2019-09-30T07:07:07" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="PP" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:22" CalcTime="2019-09-30T07:07:07" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="QN" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:22" CalcTime="2019-09-30T07:07:07" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="TF" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:22" CalcTime="2019-09-30T07:07:07" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="F4" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:22" CalcTime="2019-09-30T07:07:07" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="A2" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:22" CalcTime="2019-09-30T07:07:07" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="EX" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:22" CalcTime="2019-09-30T07:07:07" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <FixedPriceSummary>
+                <FixedPrice SportId="8" LeagueId="102" MeetingId="1271" MainEventId="1319884" SubEventId="8911232" Status="e" BetTypeName="Win" EnablePlaceBetting="1"/>
+            </FixedPriceSummary>
+            <Runner RunnerNo="1" RunnerName="SAUSALITO" Barrier="7" JockeySilk="11647"/>
+            <Runner RunnerNo="2" RunnerName="MISS FISHER" Barrier="6" JockeySilk="73742"/>
+            <Runner RunnerNo="3" RunnerName="STRICTLY LEGIT" Barrier="1" JockeySilk="43318"/>
+            <Runner RunnerNo="4" RunnerName="LITTLE OFF THE TOP" Barrier="9" JockeySilk="4591"/>
+            <Runner RunnerNo="5" RunnerName="MOSRAI" Barrier="5" JockeySilk="39528"/>
+            <Runner RunnerNo="6" RunnerName="CUNNINGAR LASS" Barrier="10" JockeySilk="75356"/>
+            <Runner RunnerNo="7" RunnerName="FUSSDINADO" Barrier="3" JockeySilk="77389"/>
+            <Runner RunnerNo="8" RunnerName="MS WICKED NICCI" Barrier="2" JockeySilk="79094"/>
+            <Runner RunnerNo="9" RunnerName="NOT IN THE NICK" Barrier="4" JockeySilk="1592"/>
+            <Runner RunnerNo="10" RunnerName="SAPIENCE" Barrier="8" Scratched="Y" ScratchStatus="3" JockeySilk="63299"/>
+        </Race>
+        <Race RaceNo="2" RaceTime="2019-09-30T14:10:00" RaceName="RAPID CLEAN MAIDEN HANDICAP" Distance="1200" RaceDisplayStatus="SELLING" WeatherChanged="N" WeatherCond="0" TrackChanged="N" TrackCond="0">
+            <Pool PoolType="WW" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:26" CalcTime="2019-09-30T07:07:11" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="PP" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:26" CalcTime="2019-09-30T07:07:11" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="QN" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:26" CalcTime="2019-09-30T07:07:11" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="TF" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:26" CalcTime="2019-09-30T07:07:11" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="F4" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:26" CalcTime="2019-09-30T07:07:11" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="A2" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:26" CalcTime="2019-09-30T07:07:11" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="EX" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:26" CalcTime="2019-09-30T07:07:11" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <FixedPriceSummary>
+                <FixedPrice SportId="8" LeagueId="102" MeetingId="1271" MainEventId="1319885" SubEventId="8911233" Status="e" BetTypeName="Win" EnablePlaceBetting="1"/>
+            </FixedPriceSummary>
+            <Runner RunnerNo="1" RunnerName="GREENSKEEPER" Barrier="15" JockeySilk="80013"/>
+            <Runner RunnerNo="2" RunnerName="I'M ON BREAK" Barrier="14" JockeySilk="77428"/>
+            <Runner RunnerNo="3" RunnerName="UNTAMED DRAGON" Barrier="6" JockeySilk="79789"/>
+            <Runner RunnerNo="5" RunnerName="ALL REIGN" Barrier="12" JockeySilk="76015"/>
+            <Runner RunnerNo="7" RunnerName="SKULL CAP" Barrier="8" JockeySilk="36541"/>
+            <Runner RunnerNo="8" RunnerName="DESY'S MUSIC" Barrier="7" JockeySilk="48307"/>
+            <Runner RunnerNo="10" RunnerName="MISS DUBLEO SEVEN" Barrier="5" JockeySilk="8702"/>
+            <Runner RunnerNo="11" RunnerName="ONE POUND" Barrier="17" JockeySilk="79094"/>
+            <Runner RunnerNo="12" RunnerName="PERFECT PEACE" Barrier="1" JockeySilk="74291"/>
+            <Runner RunnerNo="13" RunnerName="SULU'S GIRL" Barrier="10" JockeySilk="11033"/>
+            <Runner RunnerNo="14" RunnerName="TREMATON" Barrier="2" JockeySilk="11647"/>
+            <Runner RunnerNo="15" RunnerName="MT PILATUS" Barrier="4" JockeySilk="68875"/>
+            <Runner RunnerNo="17" RunnerName="REAL FANCY" Barrier="9" JockeySilk="58730"/>
+            <Runner RunnerNo="4" RunnerName="ABSOLUTE CONTROL" Barrier="16" Scratched="Y" ScratchStatus="3" JockeySilk="8644"/>
+            <Runner RunnerNo="6" RunnerName="DANEBROOK" Barrier="13" Scratched="Y" ScratchStatus="3" JockeySilk="71452"/>
+            <Runner RunnerNo="9" RunnerName="KENSINGTON KID" Barrier="11" Scratched="Y" ScratchStatus="3" JockeySilk="43232"/>
+            <Runner RunnerNo="16" RunnerName="FONCE" Barrier="3" Scratched="Y" ScratchStatus="3" JockeySilk="1759"/>
+        </Race>
+        <Race RaceNo="3" RaceTime="2019-09-30T14:50:00" RaceName="THREAD EFFECTS MAIDEN PLATE" Distance="1400" RaceDisplayStatus="SELLING" WeatherChanged="N" WeatherCond="0" TrackChanged="N" TrackCond="0">
+            <Pool PoolType="WW" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:28" CalcTime="2019-09-30T07:07:13" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="PP" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:28" CalcTime="2019-09-30T07:07:13" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="QN" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:28" CalcTime="2019-09-30T07:07:13" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="TF" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:28" CalcTime="2019-09-30T07:07:13" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="F4" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:28" CalcTime="2019-09-30T07:07:13" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="A2" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:28" CalcTime="2019-09-30T07:07:13" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="EX" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:28" CalcTime="2019-09-30T07:07:13" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <FixedPriceSummary>
+                <FixedPrice SportId="8" LeagueId="102" MeetingId="1271" MainEventId="1319886" SubEventId="8911235" Status="e" BetTypeName="Win" EnablePlaceBetting="1"/>
+            </FixedPriceSummary>
+            <Runner RunnerNo="1" RunnerName="BANDJIN RAIN" Barrier="4" JockeySilk="10690"/>
+            <Runner RunnerNo="2" RunnerName="BLIND LOVE" Barrier="2" JockeySilk="75708"/>
+            <Runner RunnerNo="3" RunnerName="GO GAZ" Barrier="10" JockeySilk="2629"/>
+            <Runner RunnerNo="4" RunnerName="HARDYO" Barrier="5" JockeySilk="38201"/>
+            <Runner RunnerNo="5" RunnerName="YOUNG CRANACH" Barrier="7" JockeySilk="36541"/>
+            <Runner RunnerNo="6" RunnerName="CHICK IN CHARGE" Barrier="3" JockeySilk="1759"/>
+            <Runner RunnerNo="7" RunnerName="MAGIC ANNA" Barrier="9" JockeySilk="68110"/>
+            <Runner RunnerNo="9" RunnerName="SASOGENES" Barrier="12" JockeySilk="79188"/>
+            <Runner RunnerNo="10" RunnerName="MISTERZEE" Barrier="8" JockeySilk="6661"/>
+            <Runner RunnerNo="12" RunnerName="DIVINE DREAM" Barrier="1" JockeySilk="11118"/>
+            <Runner RunnerNo="8" RunnerName="REAL FANCY" Barrier="14" Scratched="Y" ScratchStatus="3" JockeySilk="58730"/>
+            <Runner RunnerNo="11" RunnerName="SALSA DREAMING" Barrier="6" Scratched="Y" ScratchStatus="3" JockeySilk="66513"/>
+            <Runner RunnerNo="13" RunnerName="LOVES A HIT" Barrier="11" Scratched="Y" ScratchStatus="3" JockeySilk="10189"/>
+            <Runner RunnerNo="14" RunnerName="SHADESMAR" Barrier="13" Scratched="Y" ScratchStatus="3" JockeySilk="76731"/>
+        </Race>
+        <Race RaceNo="4" RaceTime="2019-09-30T15:25:00" RaceName="JT FOSSEY CLASS 1 HANDICAP" Distance="1400" RaceDisplayStatus="SELLING" WeatherChanged="N" WeatherCond="0" TrackChanged="N" TrackCond="0">
+            <Pool PoolType="WW" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:30" CalcTime="2019-09-30T07:07:15" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="PP" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:30" CalcTime="2019-09-30T07:07:15" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="QN" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:30" CalcTime="2019-09-30T07:07:15" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="TF" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:30" CalcTime="2019-09-30T07:07:15" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="F4" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:30" CalcTime="2019-09-30T07:07:15" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="A2" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:30" CalcTime="2019-09-30T07:07:15" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="EX" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:30" CalcTime="2019-09-30T07:07:15" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <FixedPriceSummary>
+                <FixedPrice SportId="8" LeagueId="102" MeetingId="1271" MainEventId="1319887" SubEventId="8911236" Status="e" BetTypeName="Win" EnablePlaceBetting="1"/>
+            </FixedPriceSummary>
+            <Runner RunnerNo="1" RunnerName="MR PIQUET" Barrier="6" JockeySilk="52425"/>
+            <Runner RunnerNo="3" RunnerName="HOLD ALL TICKETS" Barrier="1" JockeySilk="8793"/>
+            <Runner RunnerNo="4" RunnerName="SHAYE'S TRUST" Barrier="10" JockeySilk="79129"/>
+            <Runner RunnerNo="5" RunnerName="TRESCHA" Barrier="3" JockeySilk="47993"/>
+            <Runner RunnerNo="6" RunnerName="SHE JUST SAID IT" Barrier="2" JockeySilk="77428"/>
+            <Runner RunnerNo="7" RunnerName="ROCKATOO" Barrier="8" JockeySilk="8949"/>
+            <Runner RunnerNo="8" RunnerName="PSITTACINE" Barrier="7" JockeySilk="62628"/>
+            <Runner RunnerNo="9" RunnerName="BON BON" Barrier="4" JockeySilk="46017"/>
+            <Runner RunnerNo="10" RunnerName="COBB 'N' CO" Barrier="9" JockeySilk="12490"/>
+            <Runner RunnerNo="11" RunnerName="TIME STALKER" Barrier="11" JockeySilk="75357"/>
+            <Runner RunnerNo="12" RunnerName="DOUBLE PERIL" Barrier="5" JockeySilk="7346"/>
+            <Runner RunnerNo="2" RunnerName="MISS EPORETTO" Barrier="12" Scratched="Y" ScratchStatus="3" JockeySilk="76028"/>
+        </Race>
+        <Race RaceNo="5" RaceTime="2019-09-30T16:05:00" RaceName="EASTERS LANDSCAPE SUPPLIES" Distance="1200" RaceDisplayStatus="SELLING" WeatherChanged="N" WeatherCond="0" TrackChanged="N" TrackCond="0">
+            <Pool PoolType="WW" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:32" CalcTime="2019-09-30T07:07:17" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="PP" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:32" CalcTime="2019-09-30T07:07:17" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="QN" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:32" CalcTime="2019-09-30T07:07:17" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="TF" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:32" CalcTime="2019-09-30T07:07:17" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="F4" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:32" CalcTime="2019-09-30T07:07:17" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="A2" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:32" CalcTime="2019-09-30T07:07:17" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="EX" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:32" CalcTime="2019-09-30T07:07:17" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <FixedPriceSummary>
+                <FixedPrice SportId="8" LeagueId="102" MeetingId="1271" MainEventId="1319888" SubEventId="8911237" Status="e" BetTypeName="Win" EnablePlaceBetting="1"/>
+            </FixedPriceSummary>
+            <Runner RunnerNo="1" RunnerName="COZHECANCAN" Barrier="10" JockeySilk="2123"/>
+            <Runner RunnerNo="2" RunnerName="MALZOOM" Barrier="11" JockeySilk="78072"/>
+            <Runner RunnerNo="3" RunnerName="PHILADORA" Barrier="2" JockeySilk="60786"/>
+            <Runner RunnerNo="4" RunnerName="STAR RAIDER" Barrier="1" JockeySilk="39271"/>
+            <Runner RunnerNo="5" RunnerName="KEIGHLEY SUN" Barrier="6" JockeySilk="78820"/>
+            <Runner RunnerNo="6" RunnerName="WASHINGTON GEORGE" Barrier="9" JockeySilk="9041"/>
+            <Runner RunnerNo="7" RunnerName="ONEMORECHOICE" Barrier="4" JockeySilk="68383"/>
+            <Runner RunnerNo="9" RunnerName="BLINKIN FANTASTIC" Barrier="3" JockeySilk="61483"/>
+            <Runner RunnerNo="10" RunnerName="PENNY'S BONITAS" Barrier="12" JockeySilk="72727"/>
+            <Runner RunnerNo="11" RunnerName="HERECOMES THEFUZZ" Barrier="8" JockeySilk="9527"/>
+            <Runner RunnerNo="12" RunnerName="EULO MISS" Barrier="7" JockeySilk="7346"/>
+            <Runner RunnerNo="13" RunnerName="GOODJAMAK BABY" Barrier="5" JockeySilk="81017"/>
+            <Runner RunnerNo="8" RunnerName="RED RAFFLE" Barrier="13" Scratched="Y" ScratchStatus="3" JockeySilk="51890"/>
+        </Race>
+        <Race RaceNo="6" RaceTime="2019-09-30T16:40:00" RaceName="CARLTON UNITED BM 58" Distance="1600" RaceDisplayStatus="SELLING" WeatherChanged="N" WeatherCond="0" TrackChanged="N" TrackCond="0">
+            <Pool PoolType="WW" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:34" CalcTime="2019-09-30T07:07:19" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="PP" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:34" CalcTime="2019-09-30T07:07:19" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="QN" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:34" CalcTime="2019-09-30T07:07:19" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="TF" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:34" CalcTime="2019-09-30T07:07:19" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="F4" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:34" CalcTime="2019-09-30T07:07:19" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="A2" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:34" CalcTime="2019-09-30T07:07:19" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="EX" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:34" CalcTime="2019-09-30T07:07:19" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <FixedPriceSummary>
+                <FixedPrice SportId="8" LeagueId="102" MeetingId="1271" MainEventId="1319889" SubEventId="8911238" Status="e" BetTypeName="Win" EnablePlaceBetting="1"/>
+            </FixedPriceSummary>
+            <Runner RunnerNo="2" RunnerName="MYBOYCOLLY" Barrier="1" JockeySilk="76028"/>
+            <Runner RunnerNo="3" RunnerName="YU LONG SHENG HUI" Barrier="5" JockeySilk="78177"/>
+            <Runner RunnerNo="4" RunnerName="LIPPY AND PEARLS" Barrier="10" JockeySilk="67543"/>
+            <Runner RunnerNo="5" RunnerName="VINEYARD" Barrier="3" JockeySilk="8542"/>
+            <Runner RunnerNo="6" RunnerName="EVANGELIST" Barrier="6" JockeySilk="75708"/>
+            <Runner RunnerNo="7" RunnerName="DREAMFYRE" Barrier="13" JockeySilk="11118"/>
+            <Runner RunnerNo="8" RunnerName="GOLD SKYE" Barrier="7" JockeySilk="8364"/>
+            <Runner RunnerNo="9" RunnerName="APACHE LAD" Barrier="4" JockeySilk="75449"/>
+            <Runner RunnerNo="11" RunnerName="EMVEPEE" Barrier="8" JockeySilk="72549"/>
+            <Runner RunnerNo="12" RunnerName="YATTE YATTAH" Barrier="11" JockeySilk="4849"/>
+            <Runner RunnerNo="13" RunnerName="CELTIC TIGER" Barrier="14" JockeySilk="75357"/>
+            <Runner RunnerNo="14" RunnerName="MACMISSILE" Barrier="2" JockeySilk="75357"/>
+            <Runner RunnerNo="1" RunnerName="COURU" Barrier="9" Scratched="Y" ScratchStatus="3" JockeySilk="10690"/>
+            <Runner RunnerNo="10" RunnerName="DAD'S BLAZE" Barrier="12" Scratched="Y" ScratchStatus="3" JockeySilk="76731"/>
+        </Race>
+        <Race RaceNo="7" RaceTime="2019-09-30T17:15:00" RaceName="ALLSOPP SIGNS OPEN HANDICAP" Distance="1000" RaceDisplayStatus="SELLING" WeatherChanged="N" WeatherCond="0" TrackChanged="N" TrackCond="0" FeatureRaceBonusActive="0">
+            <Pool PoolType="WW" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:36" CalcTime="2019-09-30T07:07:21" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="PP" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:36" CalcTime="2019-09-30T07:07:21" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="QN" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:36" CalcTime="2019-09-30T07:07:21" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="TF" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:36" CalcTime="2019-09-30T07:07:21" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="F4" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:36" CalcTime="2019-09-30T07:07:21" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="A2" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:36" CalcTime="2019-09-30T07:07:21" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="EX" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T06:57:36" CalcTime="2019-09-30T07:07:21" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <FixedPriceSummary>
+                <FixedPrice SportId="8" LeagueId="102" MeetingId="1271" MainEventId="1319890" SubEventId="8911239" Status="e" BetTypeName="Win" EnablePlaceBetting="1"/>
+            </FixedPriceSummary>
+            <Runner RunnerNo="1" RunnerName="ATTILA" Barrier="9" JockeySilk="78871"/>
+            <Runner RunnerNo="2" RunnerName="PROFESSOR MARX" Barrier="3" JockeySilk="9616"/>
+            <Runner RunnerNo="3" RunnerName="INQUIRY" Barrier="5" JockeySilk="36541"/>
+            <Runner RunnerNo="5" RunnerName="DE LA HOYA" Barrier="2" JockeySilk="2148"/>
+            <Runner RunnerNo="6" RunnerName="SIR DONALD" Barrier="10" JockeySilk="68875"/>
+            <Runner RunnerNo="7" RunnerName="THE LION" Barrier="4" JockeySilk="68875"/>
+            <Runner RunnerNo="8" RunnerName="MURVATE" Barrier="7" JockeySilk="65465"/>
+            <Runner RunnerNo="9" RunnerName="VALBEATA" Barrier="1" JockeySilk="12616"/>
+            <Runner RunnerNo="10" RunnerName="CLASSY ANNA" Barrier="6" JockeySilk="11458"/>
+            <Runner RunnerNo="11" RunnerName="EPIC DECISION" Barrier="8" JockeySilk="78072"/>
+            <Runner RunnerNo="4" RunnerName="ANOTHER SIN" Barrier="11" Scratched="Y" ScratchStatus="3" JockeySilk="1810"/>
+        </Race>
+        <Tipster TipsterId="0" TipsterName="LATE MAIL"/>
+        <Tipster TipsterId="1" TipsterName="RADIO TAB"/>
+    </Meeting>
+</RaceDay>
