@@ -23,9 +23,16 @@ class MainActivity : AppCompatActivity(), Response.Listener<String>, Response.Er
     override fun onStart() {
         super.onStart()
 
+        /**
+         * Note: Specific to e.g. "https://tatts.com/pagedata/racing/2019/9/30/NR.xml"
+         *
+         * For detailed Runner info, need: e.g. "https://tatts.com/pagedata/racing/2019/9/30/NR1.xml"
+         * Example XPath: "/RaceDay/Meeting/Race[@RaceNo=1]/Runner"
+         */
         val raceDayData = parseRaceDay()
         val meetingData = parseMeeting()
         val raceData = parseRace()
+        val raceDataNo = parseRaceNo()
         val bp = "bp"
 
 //        val url = "https://tatts.com/pagedata/racing/2019/9/30/NR.raw"
@@ -114,8 +121,29 @@ class MainActivity : AppCompatActivity(), Response.Listener<String>, Response.Er
         val map = mutableMapOf<String, String>()
 
         if(lNodes.length > 0) {
+            val len = lNodes.length
+            for(ndx in 0..len) {
+                val node = lNodes.item(ndx)
+                if (node != null) {
+                    val lNodeAttrs = node.attributes
+                    for (ndx in 0..lNodeAttrs.length - 1) {
+                        val attrNode = lNodeAttrs.item(ndx)
+                        map.put(attrNode.localName, attrNode.nodeValue)
+                    }
+                }
+            }
+        }
+        return map
+    }
 
+    private fun parseRaceNo(): MutableMap<String, String> {
+        val inputSource = InputSource(resources.openRawResource((R.raw.raceday)))
+        val xpath = XPathFactory.newInstance().newXPath()
+        val expr = "/RaceDay/Meeting/Race[@RaceNo=1]"
+        val lNodes = xpath.evaluate(expr, inputSource, XPathConstants.NODESET) as NodeList
+        val map = mutableMapOf<String, String>()
 
+        if(lNodes.length > 0) {
             val len = lNodes.length
             for(ndx in 0..len) {
                 val node = lNodes.item(ndx)

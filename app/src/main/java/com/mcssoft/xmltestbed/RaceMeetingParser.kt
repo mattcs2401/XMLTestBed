@@ -136,7 +136,7 @@ class RaceMeetingParser {
 
     private fun readFeed2(inputStream: InputStream) {
         val xPath = XPathFactory.newInstance().newXPath()
-        val askFor = "/<RaceDay"
+        val askFor = "/RaceDay"
         val lNodes = xPath.evaluate(askFor, inputStream, XPathConstants.NODESET) as NodeList
 
         val bp = "bp"
