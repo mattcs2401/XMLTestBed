@@ -1,0 +1,183 @@
+<!--"https://tatts.com/pagedata/racing/2019/9/30/NR1.xml"-->
+<RaceDay RaceDayDate="2019-09-30T00:00:00" Year="2019" Month="9" Day="30" DayOfTheWeek="Monday" MonthLong="September" IsCurrentDay="1" IsPresaleMeeting="0" ServerTime="2019-09-30T10:18:32.540">
+    <Meeting MeetingCode="NR" MtgId="2019820544" VenueName="Tamworth" MtgType="R" TrackDesc="Good" TrackCond="1" TrackRatingChanged="N" TrackRating="4" WeatherChanged="N" TrackChanged="N" WeatherCond="1" WeatherDesc="Fine" MtgAbandoned="N" TotalTrio="N">
+        <Pool PoolType="DD" PoolDisplayStatus="SELLING" Available="Y" Abandoned="N" JPotInGross="0.00" JPotOutGross="0.00" PoolTotal="104.00" MinPoolSize="0.0000" MinPoolTopUp="0.0000">
+            <MultiLeg LegNo="1" RaceNo="6">
+                <DividendResult/>
+            </MultiLeg>
+            <MultiLeg LegNo="2" RaceNo="7">
+                <DividendResult/>
+            </MultiLeg>
+        </Pool>
+        <Pool PoolType="XD" PoolDisplayStatus="SELLING" Available="Y" Abandoned="N" JPotInGross="0.00" JPotOutGross="0.00" PoolTotal="124.00" MinPoolSize="0.0000" MinPoolTopUp="0.0000">
+            <MultiLeg LegNo="1" RaceNo="2">
+                <DividendResult/>
+            </MultiLeg>
+            <MultiLeg LegNo="2" RaceNo="3">
+                <DividendResult/>
+            </MultiLeg>
+        </Pool>
+        <Pool PoolType="TT" PoolDisplayStatus="SELLING" Available="Y" Abandoned="N" JPotInGross="0.00" JPotOutGross="0.00" PoolTotal="113.00" MinPoolSize="0.0000" MinPoolTopUp="0.0000">
+            <MultiLeg LegNo="1" RaceNo="5">
+                <DividendResult/>
+            </MultiLeg>
+            <MultiLeg LegNo="2" RaceNo="6">
+                <DividendResult/>
+            </MultiLeg>
+            <MultiLeg LegNo="3" RaceNo="7">
+                <DividendResult/>
+            </MultiLeg>
+        </Pool>
+        <Pool PoolType="QD" PoolDisplayStatus="SELLING" Available="Y" Abandoned="N" JPotInGross="0.00" JPotOutGross="0.00" PoolTotal="352.00" MinPoolSize="0.0000" MinPoolTopUp="0.0000">
+            <MultiLeg LegNo="1" RaceNo="4">
+                <DividendResult/>
+            </MultiLeg>
+            <MultiLeg LegNo="2" RaceNo="5">
+                <DividendResult/>
+            </MultiLeg>
+            <MultiLeg LegNo="3" RaceNo="6">
+                <DividendResult/>
+            </MultiLeg>
+            <MultiLeg LegNo="4" RaceNo="7">
+                <DividendResult/>
+            </MultiLeg>
+        </Pool>
+        <ValidRace RaceNo="1"/>
+        <ValidRace RaceNo="2"/>
+        <ValidRace RaceNo="3"/>
+        <ValidRace RaceNo="4"/>
+        <ValidRace RaceNo="5"/>
+        <ValidRace RaceNo="6"/>
+        <ValidRace RaceNo="7"/>
+        <Race RaceNo="1" RaceTime="2019-09-30T13:35:00" RaceName="CONCRETE INDUSTRY SUPPLIES" Distance="1000" SubFav="0" RaceDisplayStatus="SELLING" WeatherChanged="N" WeatherCond="1" WeatherDesc="Fine" TrackChanged="N" TrackCond="1" TrackDesc="Good" TrackRating="4" TrackRatingChanged="N">
+            <Pool PoolType="A2" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="10.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T09:07:11" CalcTime="2019-09-30T10:07:10" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="EX" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="0.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T09:07:11" CalcTime="2019-09-30T10:07:10" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="F4" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="31.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T09:07:11" CalcTime="2019-09-30T10:07:10" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="PP" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="94.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T09:07:11" CalcTime="2019-09-30T10:07:10" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="QN" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="46.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T09:07:11" CalcTime="2019-09-30T10:07:10" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="TF" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="144.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T09:07:11" CalcTime="2019-09-30T10:07:10" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <Pool PoolType="WW" Available="Y" Abandoned="N" PoolDisplayStatus="SELLING" PoolTotal="163.00" JPotInGross="0.00" JPotOutGross="0.00" LastCalcTime="2019-09-30T09:07:11" CalcTime="2019-09-30T10:07:10" StatDiv="0" MinPoolSize="0.0000" MinPoolTopUp="0.0000"/>
+            <FixedPriceSummary>
+                <FixedPrice SportId="8" LeagueId="102" MeetingId="1271" MainEventId="1319884" SubEventId="8911232" Status="e" BetTypeName="Win" CashOutEnabled="0" EnablePlaceBetting="1"/>
+            </FixedPriceSummary>
+            <PoolApproximates PoolType="QN">
+                <Odds RunnerNo1="1" RunnerNo2="2" Odds="13.5000" Shortening="0"/>
+                <Odds RunnerNo1="1" RunnerNo2="3" Odds="29.1000" Shortening="0"/>
+                <Odds RunnerNo1="1" RunnerNo2="4" Odds="29.1000" Shortening="0"/>
+                <Odds RunnerNo1="1" RunnerNo2="5" Odds="25.3000" Shortening="0"/>
+                <Odds RunnerNo1="1" RunnerNo2="6" Odds="3.0000" Shortening="1"/>
+                <Odds RunnerNo1="1" RunnerNo2="7" Odds="25.3000" Shortening="0"/>
+                <Odds RunnerNo1="1" RunnerNo2="8" Odds="18.9000" Shortening="0"/>
+                <Odds RunnerNo1="1" RunnerNo2="9" Odds="0.0000" Shortening="0"/>
+                <Odds RunnerNo1="1" RunnerNo2="10" Odds="1638.3500" Shortening="0"/>
+                <Odds RunnerNo1="2" RunnerNo2="3" Odds="29.1000" Shortening="0"/>
+                <Odds RunnerNo1="2" RunnerNo2="4" Odds="29.1000" Shortening="0"/>
+                <Odds RunnerNo1="2" RunnerNo2="5" Odds="25.3000" Shortening="0"/>
+                <Odds RunnerNo1="2" RunnerNo2="6" Odds="16.5000" Shortening="0"/>
+                <Odds RunnerNo1="2" RunnerNo2="7" Odds="25.3000" Shortening="0"/>
+                <Odds RunnerNo1="2" RunnerNo2="8" Odds="12.6000" Shortening="0"/>
+                <Odds RunnerNo1="2" RunnerNo2="9" Odds="37.9000" Shortening="0"/>
+                <Odds RunnerNo1="2" RunnerNo2="10" Odds="1638.3500" Shortening="0"/>
+                <Odds RunnerNo1="3" RunnerNo2="4" Odds="37.9000" Shortening="0"/>
+                <Odds RunnerNo1="3" RunnerNo2="5" Odds="37.9000" Shortening="0"/>
+                <Odds RunnerNo1="3" RunnerNo2="6" Odds="16.5000" Shortening="0"/>
+                <Odds RunnerNo1="3" RunnerNo2="7" Odds="0.0000" Shortening="0"/>
+                <Odds RunnerNo1="3" RunnerNo2="8" Odds="0.0000" Shortening="0"/>
+                <Odds RunnerNo1="3" RunnerNo2="9" Odds="0.0000" Shortening="0"/>
+                <Odds RunnerNo1="3" RunnerNo2="10" Odds="1638.3500" Shortening="0"/>
+                <Odds RunnerNo1="4" RunnerNo2="5" Odds="0.0000" Shortening="0"/>
+                <Odds RunnerNo1="4" RunnerNo2="6" Odds="11.5000" Shortening="0"/>
+                <Odds RunnerNo1="4" RunnerNo2="7" Odds="37.9000" Shortening="0"/>
+                <Odds RunnerNo1="4" RunnerNo2="8" Odds="0.0000" Shortening="0"/>
+                <Odds RunnerNo1="4" RunnerNo2="9" Odds="0.0000" Shortening="0"/>
+                <Odds RunnerNo1="4" RunnerNo2="10" Odds="1638.3500" Shortening="0"/>
+                <Odds RunnerNo1="5" RunnerNo2="6" Odds="0.0000" Shortening="0"/>
+                <Odds RunnerNo1="5" RunnerNo2="7" Odds="37.9000" Shortening="0"/>
+                <Odds RunnerNo1="5" RunnerNo2="8" Odds="18.9000" Shortening="0"/>
+                <Odds RunnerNo1="5" RunnerNo2="9" Odds="0.0000" Shortening="0"/>
+                <Odds RunnerNo1="5" RunnerNo2="10" Odds="1638.3500" Shortening="0"/>
+                <Odds RunnerNo1="6" RunnerNo2="7" Odds="0.0000" Shortening="0"/>
+                <Odds RunnerNo1="6" RunnerNo2="8" Odds="37.9000" Shortening="0"/>
+                <Odds RunnerNo1="6" RunnerNo2="9" Odds="0.0000" Shortening="0"/>
+                <Odds RunnerNo1="6" RunnerNo2="10" Odds="1638.3500" Shortening="0"/>
+                <Odds RunnerNo1="7" RunnerNo2="8" Odds="0.0000" Shortening="0"/>
+                <Odds RunnerNo1="7" RunnerNo2="9" Odds="0.0000" Shortening="0"/>
+                <Odds RunnerNo1="7" RunnerNo2="10" Odds="1638.3500" Shortening="0"/>
+                <Odds RunnerNo1="8" RunnerNo2="9" Odds="0.0000" Shortening="0"/>
+                <Odds RunnerNo1="8" RunnerNo2="10" Odds="1638.3500" Shortening="0"/>
+                <Odds RunnerNo1="9" RunnerNo2="10" Odds="1638.3500" Shortening="0"/>
+            </PoolApproximates>
+            <Runner RunnerNo="1" RunnerName="SAUSALITO" Scratched="N" Rider="G RYAN" RiderChanged="N" Barrier="7" Handicap="0" Weight="59.0" LastResult="9x4" Rtng="89" JockeySilk="11647">
+                <WinOdds Odds="3.40" Lastodds="5.10" LastCalcTime="2019-09-30T09:07:11" CalcTime="2019-09-30T10:07:10" Short="Y"/>
+                <PlaceOdds Odds="2.60" Lastodds="1.50" Short="N"/>
+                <FixedOdds OfferId="855670" RunnerNo="01" RaceNo="01" MeetingCode="NR" RaceDayDate="2019-09-30T00:00:00" WinOdds="3.1000" PlaceOdds="1.4000" RetailWinOdds="3.1000" RetailPlaceOdds="1.4000" OfferName="SAUSALITO" Status="e" LateScratching="0" Deduction="0" PlaceDeduction="0">
+                    <Book BookStatus="e" SubEventId="8911232"/>
+                </FixedOdds>
+            </Runner>
+            <Runner RunnerNo="2" RunnerName="MISS FISHER" Scratched="N" Rider="A BULLOCK" RiderChanged="N" Barrier="6" Handicap="0" Weight="56.5" Form="DW" LastResult="x28" Rtng="100" JockeySilk="73742">
+                <WinOdds Odds="15.30" Lastodds="15.30" LastCalcTime="2019-09-30T09:07:11" CalcTime="2019-09-30T10:07:10" Short="N"/>
+                <PlaceOdds Odds="2.90" Lastodds="4.60" Short="Y"/>
+                <FixedOdds OfferId="855671" RunnerNo="02" RaceNo="01" MeetingCode="NR" RaceDayDate="2019-09-30T00:00:00" WinOdds="4.0000" PlaceOdds="1.6000" RetailWinOdds="4.0000" RetailPlaceOdds="1.6000" OfferName="MISS FISHER" Status="e" LateScratching="0" Deduction="0" PlaceDeduction="0">
+                    <Book BookStatus="e" SubEventId="8911232"/>
+                </FixedOdds>
+            </Runner>
+            <Runner RunnerNo="3" RunnerName="STRICTLY LEGIT" Scratched="N" Rider="Y LEWIS(A)" RiderChanged="N" Barrier="1" Handicap="0" Weight="56.5" Form="D" LastResult="082" Rtng="95" JockeySilk="43318">
+                <WinOdds Odds="34.60" Lastodds="0.00" LastCalcTime="2019-09-30T09:07:11" CalcTime="2019-09-30T10:07:10" Short="N"/>
+                <PlaceOdds Odds="3.80" Lastodds="9.30" Short="Y"/>
+                <FixedOdds OfferId="855672" RunnerNo="03" RaceNo="01" MeetingCode="NR" RaceDayDate="2019-09-30T00:00:00" WinOdds="3.8000" PlaceOdds="1.5500" RetailWinOdds="3.8000" RetailPlaceOdds="1.5500" OfferName="STRICTLY LEGIT" Status="e" LateScratching="0" Deduction="0" PlaceDeduction="0">
+                    <Book BookStatus="e" SubEventId="8911232"/>
+                </FixedOdds>
+            </Runner>
+            <Runner RunnerNo="4" RunnerName="LITTLE OFF THE TOP" Scratched="N" Rider="B STOWER" RiderChanged="N" Barrier="9" Handicap="0" Weight="56.0" Form="DW" LastResult="9x3" Rtng="92" JockeySilk="4591">
+                <WinOdds Odds="23.00" Lastodds="22.90" LastCalcTime="2019-09-30T09:07:11" CalcTime="2019-09-30T10:07:10" Short="N"/>
+                <PlaceOdds Odds="13.30" Lastodds="4.60" Short="N"/>
+                <FixedOdds OfferId="855673" RunnerNo="04" RaceNo="01" MeetingCode="NR" RaceDayDate="2019-09-30T00:00:00" WinOdds="51.0000" PlaceOdds="9.0000" RetailWinOdds="51.0000" RetailPlaceOdds="9.0000" OfferName="LITTLE OFF THE TOP" Status="e" LateScratching="0" Deduction="0" PlaceDeduction="0">
+                    <Book BookStatus="e" SubEventId="8911232"/>
+                </FixedOdds>
+            </Runner>
+            <Runner RunnerNo="5" RunnerName="MOSRAI" Scratched="N" Rider="B HODDER" RiderChanged="N" Barrier="5" Handicap="0" Weight="56.0" Form="DC" LastResult="x09" Rtng="88" JockeySilk="39528">
+                <WinOdds Odds="8.60" Lastodds="22.90" LastCalcTime="2019-09-30T09:07:11" CalcTime="2019-09-30T10:07:10" Short="Y"/>
+                <PlaceOdds Odds="2.00" Lastodds="4.60" Short="Y"/>
+                <FixedOdds OfferId="855674" RunnerNo="05" RaceNo="01" MeetingCode="NR" RaceDayDate="2019-09-30T00:00:00" WinOdds="18.0000" PlaceOdds="4.0000" RetailWinOdds="18.0000" RetailPlaceOdds="4.0000" OfferName="MOSRAI" Status="e" LateScratching="0" Deduction="0" PlaceDeduction="0">
+                    <Book BookStatus="e" SubEventId="8911232"/>
+                </FixedOdds>
+            </Runner>
+            <Runner RunnerNo="6" RunnerName="CUNNINGAR LASS" Scratched="N" Rider="M WEIR(A)" RiderChanged="N" Barrier="10" Handicap="0" Weight="54.0" LastResult="423" Rtng="91" JockeySilk="75356">
+                <WinOdds Odds="2.70" Lastodds="1.90" LastCalcTime="2019-09-30T09:07:11" CalcTime="2019-09-30T10:07:10" Short="N"/>
+                <PlaceOdds Odds="1.00" Lastodds="1.00" Short="N"/>
+                <FixedOdds OfferId="855675" RunnerNo="06" RaceNo="01" MeetingCode="NR" RaceDayDate="2019-09-30T00:00:00" WinOdds="7.0000" PlaceOdds="2.1000" RetailWinOdds="7.0000" RetailPlaceOdds="2.1000" OfferName="CUNNINGAR LASS" Status="e" LateScratching="0" Deduction="0" PlaceDeduction="0">
+                    <Book BookStatus="e" SubEventId="8911232"/>
+                </FixedOdds>
+            </Runner>
+            <Runner RunnerNo="7" RunnerName="FUSSDINADO" Scratched="N" Rider="B LOOKER" RiderChanged="N" Barrier="3" Handicap="0" Weight="54.0" Form="DT" LastResult="108" Rtng="89" JockeySilk="77389">
+                <WinOdds Odds="9.80" Lastodds="4.10" LastCalcTime="2019-09-30T09:07:11" CalcTime="2019-09-30T10:07:10" Short="N"/>
+                <PlaceOdds Odds="6.60" Lastodds="3.10" Short="N"/>
+                <FixedOdds OfferId="855676" RunnerNo="07" RaceNo="01" MeetingCode="NR" RaceDayDate="2019-09-30T00:00:00" WinOdds="9.0000" PlaceOdds="2.5000" RetailWinOdds="9.0000" RetailPlaceOdds="2.5000" OfferName="FUSSDINADO" Status="e" LateScratching="0" Deduction="0" PlaceDeduction="0">
+                    <Book BookStatus="e" SubEventId="8911232"/>
+                </FixedOdds>
+            </Runner>
+            <Runner RunnerNo="8" RunnerName="MS WICKED NICCI" Scratched="N" Rider="A GIBBONS" RiderChanged="N" Barrier="2" Handicap="0" Weight="54.0" Form="DW" LastResult="514" Rtng="92" JockeySilk="79094">
+                <WinOdds Odds="8.10" Lastodds="22.90" LastCalcTime="2019-09-30T09:07:11" CalcTime="2019-09-30T10:07:10" Short="Y"/>
+                <PlaceOdds Odds="3.30" Lastodds="9.30" Short="Y"/>
+                <FixedOdds OfferId="855677" RunnerNo="08" RaceNo="01" MeetingCode="NR" RaceDayDate="2019-09-30T00:00:00" WinOdds="9.0000" PlaceOdds="2.5000" RetailWinOdds="9.0000" RetailPlaceOdds="2.5000" OfferName="MS WICKED NICCI" Status="e" LateScratching="0" Deduction="0" PlaceDeduction="0">
+                    <Book BookStatus="e" SubEventId="8911232"/>
+                </FixedOdds>
+            </Runner>
+            <Runner RunnerNo="9" RunnerName="NOT IN THE NICK" Scratched="N" Rider="Q YONG(A)" RiderChanged="N" Barrier="4" Handicap="0" Weight="54.0" Form="T" LastResult="837" Rtng="89" JockeySilk="1592">
+                <WinOdds Odds="19.70" Lastodds="45.90" LastCalcTime="2019-09-30T09:07:11" CalcTime="2019-09-30T10:07:10" Short="Y"/>
+                <PlaceOdds Odds="3.80" Lastodds="0.00" Short="N"/>
+                <FixedOdds OfferId="855678" RunnerNo="09" RaceNo="01" MeetingCode="NR" RaceDayDate="2019-09-30T00:00:00" WinOdds="101.0000" PlaceOdds="17.0000" RetailWinOdds="101.0000" RetailPlaceOdds="17.0000" OfferName="NOT IN THE NICK" Status="e" LateScratching="0" Deduction="0" PlaceDeduction="0">
+                    <Book BookStatus="e" SubEventId="8911232"/>
+                </FixedOdds>
+            </Runner>
+            <Runner RunnerNo="10" RunnerName="SAPIENCE" Scratched="Y" ScratchStatus="3" RiderChanged="N" Barrier="8" Handicap="0" Weight="54.0" Form="DW" LastResult="x05" Rtng="89" JockeySilk="63299">
+                <WinOdds Odds="1638.35" Lastodds="1638.35" LastCalcTime="2019-09-30T09:07:11" CalcTime="2019-09-30T10:07:10" Short="N"/>
+                <PlaceOdds Odds="1638.35" Lastodds="1638.35" Short="N"/>
+                <FixedOdds OfferId="855679" RunnerNo="10" RaceNo="01" MeetingCode="NR" RaceDayDate="2019-09-30T00:00:00" WinOdds="1.0000" PlaceOdds="1.0000" RetailWinOdds="1.0000" RetailPlaceOdds="1.0000" OfferName="SAPIENCE 0X0" Status="y" LateScratching="0" Deduction="0" PlaceDeduction="0">
+                    <Book BookStatus="e" SubEventId="8911232"/>
+                </FixedOdds>
+            </Runner>
+            <SubFavCandidate RunnerNo="6"/>
+        </Race>
+    </Meeting>
+</RaceDay>

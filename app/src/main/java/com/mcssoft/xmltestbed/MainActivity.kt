@@ -33,6 +33,7 @@ class MainActivity : AppCompatActivity(), Response.Listener<String>, Response.Er
         val meetingData = parseMeeting()
         val raceData = parseRace()
         val raceDataNo = parseRaceNo()
+        val raceRunner = parseRaceRunner()
         val bp = "bp"
 
 //        val url = "https://tatts.com/pagedata/racing/2019/9/30/NR.raw"
@@ -66,7 +67,7 @@ class MainActivity : AppCompatActivity(), Response.Listener<String>, Response.Er
     }
 
     private fun parseRaceDay(): MutableMap<String, String> {
-        val inputSource = InputSource(resources.openRawResource((R.raw.raceday)))
+        val inputSource = InputSource(resources.openRawResource((R.raw.raceday1)))
         val xpath = XPathFactory.newInstance().newXPath()
         val expr = "/RaceDay"
         val lNodes = xpath.evaluate(expr, inputSource, XPathConstants.NODESET) as NodeList
@@ -89,7 +90,7 @@ class MainActivity : AppCompatActivity(), Response.Listener<String>, Response.Er
     }
 
     private fun parseMeeting(): MutableMap<String, String> {
-        val inputSource = InputSource(resources.openRawResource((R.raw.raceday)))
+        val inputSource = InputSource(resources.openRawResource((R.raw.raceday1)))
         val xpath = XPathFactory.newInstance().newXPath()
         val expr = "/RaceDay/Meeting"
         val lNodes = xpath.evaluate(expr, inputSource, XPathConstants.NODESET) as NodeList
@@ -114,7 +115,7 @@ class MainActivity : AppCompatActivity(), Response.Listener<String>, Response.Er
     }
 
     private fun parseRace(): MutableMap<String, String> {
-        val inputSource = InputSource(resources.openRawResource((R.raw.raceday)))
+        val inputSource = InputSource(resources.openRawResource((R.raw.raceday1)))
         val xpath = XPathFactory.newInstance().newXPath()
         val expr = "/RaceDay/Meeting/Race"
         val lNodes = xpath.evaluate(expr, inputSource, XPathConstants.NODESET) as NodeList
@@ -137,9 +138,32 @@ class MainActivity : AppCompatActivity(), Response.Listener<String>, Response.Er
     }
 
     private fun parseRaceNo(): MutableMap<String, String> {
-        val inputSource = InputSource(resources.openRawResource((R.raw.raceday)))
+        val inputSource = InputSource(resources.openRawResource((R.raw.raceday1)))
         val xpath = XPathFactory.newInstance().newXPath()
         val expr = "/RaceDay/Meeting/Race[@RaceNo=1]"
+        val lNodes = xpath.evaluate(expr, inputSource, XPathConstants.NODESET) as NodeList
+        val map = mutableMapOf<String, String>()
+
+        if(lNodes.length > 0) {
+            val len = lNodes.length
+            for(ndx in 0..len) {
+                val node = lNodes.item(ndx)
+                if (node != null) {
+                    val lNodeAttrs = node.attributes
+                    for (ndx in 0..lNodeAttrs.length - 1) {
+                        val attrNode = lNodeAttrs.item(ndx)
+                        map.put(attrNode.localName, attrNode.nodeValue)
+                    }
+                }
+            }
+        }
+        return map
+    }
+
+    private fun parseRaceRunner(): MutableMap<String, String> {
+        val inputSource = InputSource(resources.openRawResource((R.raw.raceday1)))
+        val xpath = XPathFactory.newInstance().newXPath()
+        val expr = "/RaceDay/Meeting/Race[@RaceNo=1]/Runner"
         val lNodes = xpath.evaluate(expr, inputSource, XPathConstants.NODESET) as NodeList
         val map = mutableMapOf<String, String>()
 

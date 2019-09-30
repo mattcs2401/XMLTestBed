@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<!--"https://tatts.com/pagedata/racing/2019/9/30/NR.xml"-->
 <RaceDay RaceDayDate="2019-09-30T00:00:00" Year="2019" Month="9" Day="30" DayOfTheWeek="Monday" MonthLong="September" IsCurrentDay="1" IsPresaleMeeting="0" ServerTime="2019-09-30T07:28:52.803">
     <Meeting MeetingCode="NR" MtgId="2019820544" VenueName="Tamworth" MtgType="R" TrackRatingChanged="N" WeatherChanged="N" TrackChanged="N" MtgAbandoned="N">
         <Pool PoolType="DD" PoolDisplayStatus="SELLING" Available="Y" Abandoned="N" JPotInGross="0.00" JPotOutGross="0.00" PoolTotal="0.00" MinPoolSize="0.0000" MinPoolTopUp="0.0000">
